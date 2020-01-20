@@ -4,4 +4,4 @@ Implemented a Neural Machine Translator in Keras and TensorFlow, with Encoder-De
 
 The accuracy of the model is measured using BLEU score.
 
-https://cdn-images-1.medium.com/freeze/max/1000/1*PFPSLEjIe152uR9UR59LDA.png?q=20
+![alt text](https://github.com/sinchana-eshwar/Neural-Machine-Translation/blob/master/img.png)
